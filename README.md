@@ -34,5 +34,5 @@ Contributing
 Contributions to improve the functionality or add new features are welcome. You can fork the repository and submit a pull request to suggest changes.
 
 License:
-This project is open-source and available under the MIT License. Feel free to use, modify, and distribute this code as needed.
+This project is open - source and available under the MIT License. Feel free to use, modify, and distribute this code as needed.
 Enjoy using the Hacker News Web Scraper! If you have any questions or suggestions, please feel free to reach out to the project owner.
